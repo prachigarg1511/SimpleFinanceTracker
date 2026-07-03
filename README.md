@@ -183,5 +183,9 @@ Switch themes from **Settings → Appearance** and restart the app.
 ## 👩‍💻 Author
 
 **Prachi Garg**  
-*Summer Training Project — Cybercore*  
+*Summer Training Project — Cybercore Technologies*  
 Built with Python, Tkinter, and Matplotlib.
+
+---
+
+
