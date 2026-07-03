@@ -188,4 +188,9 @@ Built with Python, Tkinter, and Matplotlib.
 
 ---
 
+## 👥 Contributors
+
+| Profile | Name | Description |
+| :--- | :--- | :--- |
+| <img src="https://github.com/prachigarg1511.png" width="100px;"/> | **Prachi Garg** | **Lead Architect & Full-Stack Developer**. Passionate about bridging the gap between Artificial Intelligence and Education. Built the core AI engine, gamification logic, and real time Synchronization. |
 
